@@ -1,0 +1,2 @@
+Prova de fitxer de text per realitzar el primer commit
+en el github
