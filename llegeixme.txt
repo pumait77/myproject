@@ -2,3 +2,6 @@ Prova de fitxer de text per realitzar el primer commit
 en el github.
 
 Segona modificació del fitxer dins del master.
+en el github
+
+Modificat el text del fitxer des de la branca1 "Branch1"
