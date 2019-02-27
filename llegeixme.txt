@@ -1,2 +1,4 @@
 Prova de fitxer de text per realitzar el primer commit
-en el github
+en el github.
+
+Segona modificació del fitxer dins del master.
